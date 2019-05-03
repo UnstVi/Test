@@ -1,0 +1,4 @@
+The decorator must implement the same interface as the class being decorated.
+The meaning of a decorator is that he changes the behavior of methods by adding 
+additional behavior to them.
+
